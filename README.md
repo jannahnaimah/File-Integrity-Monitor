@@ -21,7 +21,3 @@ Customize the script to specify which files or directories to monitor and where 
 ## Contributing
 
 Feel free to open issues or pull requests. If you'd like me to add CI, tests, packaging, or example configurations, let me know.
-
-## License
-
-No license specified — add a `LICENSE` file to define one.
